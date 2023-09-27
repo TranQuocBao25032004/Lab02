@@ -1,0 +1,62 @@
+﻿<style type="text/css" >
+body {
+    background-color: #CCCCCC;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.fm-visually{
+    display:inline-flex;
+    list-style-type:none;
+}
+.fm-item-visually
+{
+    text-decoration:none;
+    padding-left:15px;
+}
+#page-wrapper {
+    border: 2px solid #000000;
+    width: 800px;
+    background-color: #CCCCCC;
+    margin: 0px;
+    padding: 0px;
+}
+
+#site-nav {
+    height: 40px;
+}
+
+#page-header {
+    background-color: blue;
+    padding: 5px 0px;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
+
+
+
+#primary {
+    min-height: 400px;
+    width: 70%;
+    float: left;
+}
+#secondary {
+    width: 30%;
+    float: right;
+    padding-top:20px;
+}
+.fr {
+    display: inline-flex;
+    list-style-type: none;
+}
+.fm-fr {
+    text-decoration: none;
+    padding-left: 15px;
+}
+#page-footer {
+    border-top: 2px solid black;
+    padding: 5px 0px;
+    clear :both;
+}
+
+</style >
